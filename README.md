@@ -10,6 +10,5 @@ npm run dev
 
 ```
 
-The Login page is already filled in with credentials. It's just for authentication demo.
-
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+(The Login page is already filled in with credentials. It's just for authentication demo.)
